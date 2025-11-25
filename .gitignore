@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+energy_env/
+.venv/
+env/
+venv/
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
